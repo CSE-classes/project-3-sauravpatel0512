@@ -1,0 +1,8 @@
+Name: Saurav Patel
+UTA ID: 1002265166
+Status: Completed Project 3 (Pthreads)
+
+Completed:
+- Assignment 1: Parallel substring search using Pthreads
+- Assignment 2: Producer-consumer using mutex and condition variables
+- Assignment 3: Optimized list-forming with local per-thread lists
